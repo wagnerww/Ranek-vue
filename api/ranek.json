@@ -30,6 +30,96 @@
       "vendido": "false",
       "descricao": "Esse é um novo Tablet",
       "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "wagnerricardonet@gmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "tablet",
+      "nome": "Tablet",
+      "usuario_id": "wagnerricardonet@gmail.com",
+      "preco": "1999",
+      "vendido": "false",
+      "descricao": "Esse é um novo Tablet",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "wagnerricardonet@gmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "tablet",
+      "nome": "Tablet",
+      "usuario_id": "wagnerricardonet@gmail.com",
+      "preco": "1999",
+      "vendido": "false",
+      "descricao": "Esse é um novo Tablet",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "wagnerricardonet@gmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "tablet",
+      "nome": "Tablet",
+      "usuario_id": "wagnerricardonet@gmail.com",
+      "preco": "1999",
+      "vendido": "false",
+      "descricao": "Esse é um novo Tablet",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "wagnerricardonet@gmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "tablet",
+      "nome": "Tablet",
+      "usuario_id": "wagnerricardonet@gmail.com",
+      "preco": "1999",
+      "vendido": "false",
+      "descricao": "Esse é um novo Tablet",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "wagnerricardonet@gmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "tablet",
+      "nome": "Tablet",
+      "usuario_id": "wagnerricardonet@gmail.com",
+      "preco": "1999",
+      "vendido": "false",
+      "descricao": "Esse é um novo Tablet",
+      "fotos": null
     }
   ]
 }
