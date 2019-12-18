@@ -10,6 +10,17 @@
       "numero": "25",
       "estado": "RS",
       "cidade": "Três de Maio"
+    },
+    {
+      "id": "wagnerricardo@gmail.com",
+      "email": "wagnerricardo@gmail.com",
+      "nome": "Wagner Ricardo 2",
+      "senha": "123",
+      "rua": "Rua ali perto",
+      "cep": "98910000",
+      "numero": "25",
+      "estado": "RS",
+      "cidade": "Três de Maio"
     }
   ],
   "produto": [
