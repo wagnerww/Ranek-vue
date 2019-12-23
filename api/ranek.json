@@ -21,6 +21,30 @@
       "numero": "25",
       "estado": "RS",
       "cidade": "Três de Maio"
+    },
+    {
+      "id": "teste1@gmail.com",
+      "nome": "Teste usuario 1",
+      "email": "teste1@gmail.com",
+      "senha": "123",
+      "cep": "98910000",
+      "rua": "teste",
+      "numero": "200",
+      "bairro": "centro",
+      "cidade": "Três de Maio",
+      "estado": "RS"
+    },
+    {
+      "id": "wagner.wagner@acertapromotora.com.br",
+      "nome": "teste 2",
+      "email": "wagner.wagner@acertapromotora.com.br",
+      "senha": "123",
+      "cep": "98910-000",
+      "rua": "tese",
+      "numero": "123",
+      "bairro": "centro",
+      "cidade": "Três de Maio",
+      "estado": "RS"
     }
   ],
   "produto": [
