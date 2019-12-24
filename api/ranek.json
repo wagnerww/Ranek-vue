@@ -2,14 +2,15 @@
   "usuario": [
     {
       "id": "wagnerricardonet@gmail.com",
-      "email": "wagnerricardonet@gmail.com",
       "nome": "Wagner Ricardo",
+      "email": "wagnerricardonet@gmail.com",
       "senha": "123",
-      "rua": "Rua ali perto",
       "cep": "98910000",
+      "rua": "Rua ali perto eu acho",
       "numero": "25",
-      "estado": "RS",
-      "cidade": "Três de Maio"
+      "bairro": "",
+      "cidade": "Três de Maio",
+      "estado": "RS"
     },
     {
       "id": "wagnerricardo@gmail.com",
@@ -49,15 +50,6 @@
   ],
   "produto": [
     {
-      "id": "notebook",
-      "nome": "Notebook",
-      "usuario_id": "wagnerricardonet@gmail.com",
-      "preco": "4999",
-      "vendido": "false",
-      "descricao": "Esse é um novo notebook",
-      "fotos": null
-    },
-    {
       "id": "tablet",
       "nome": "Tablet",
       "usuario_id": "wagnerricardonet@gmail.com",
@@ -247,22 +239,44 @@
       "fotos": null
     },
     {
-      "id": "notebook",
-      "nome": "Notebook",
-      "usuario_id": "wagnerricardonet@gmail.com",
-      "preco": "4999",
-      "vendido": "false",
-      "descricao": "Esse é um novo notebook",
-      "fotos": null
+      "nome": "produto 1",
+      "preco": "123",
+      "descricao": "la vao",
+      "fotos": null,
+      "usuario_id": "",
+      "id": "HQ3nl10"
     },
     {
-      "id": "tablet",
-      "nome": "Tablet",
-      "usuario_id": "wagnerricardonet@gmail.com",
-      "preco": "1999",
-      "vendido": "false",
-      "descricao": "Esse é um novo Tablet",
-      "fotos": null
+      "nome": "produto 1",
+      "preco": "123",
+      "descricao": "la vao",
+      "fotos": null,
+      "usuario_id": "",
+      "id": "zf7fwtH"
+    },
+    {
+      "nome": "produto 1",
+      "preco": "123",
+      "descricao": "la vao",
+      "fotos": null,
+      "usuario_id": "",
+      "id": "RB2J1eu"
+    },
+    {
+      "nome": "produto 1",
+      "preco": "123",
+      "descricao": "la vao",
+      "fotos": null,
+      "usuario_id": "",
+      "id": "oVZTEB8"
+    },
+    {
+      "nome": "produto 1",
+      "preco": "123",
+      "descricao": "la vao",
+      "fotos": null,
+      "usuario_id": "",
+      "id": "nG39b9W"
     }
   ]
 }

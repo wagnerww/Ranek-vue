@@ -10,9 +10,15 @@ export const api = {
   },
   post(endpoint, body) {
     return axiosInstace.post(endpoint, body);
+  },
+  delete(endpoint) {
+    return axiosInstace.delete(endpoint);
+  },
+  put(endpoint, body) {
+    return axiosInstace.put(endpoint, body);
   }
 };
 
-export function getCep(cep) { 
-  return axios.get(`https://viacep.com.br/ws/${cep}/json/`)
+export function getCep(cep) {
+  return axios.get(`https://viacep.com.br/ws/${cep}/json/`);
 }
