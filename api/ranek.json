@@ -1,4 +1,50 @@
 {
+  "transacao": [
+    {
+      "comprador_id": "wagnerricardonet@gmail.com",
+      "vendedor_id": "wagnerricardonet@gmail.com",
+      "produto": {
+        "id": "tablet",
+        "nome": "Tablet",
+        "usuario_id": "wagnerricardonet@gmail.com",
+        "preco": "1999",
+        "vendido": "false",
+        "descricao": "Esse é um novo Tablet",
+        "fotos": null
+      },
+      "endereco": {
+        "cep": "98910000",
+        "rua": "Rua ali perto eu acho",
+        "numero": "25",
+        "bairro": "",
+        "cidade": "Três de Maio",
+        "estado": "RS"
+      },
+      "id": 1
+    },
+    {
+      "comprador_id": "novo@compra.com.br",
+      "vendedor_id": "wagnerricardonet@gmail.com",
+      "produto": {
+        "id": "tablet",
+        "nome": "Tablet",
+        "usuario_id": "wagnerricardonet@gmail.com",
+        "preco": "1999",
+        "vendido": "false",
+        "descricao": "Esse é um novo Tablet",
+        "fotos": null
+      },
+      "endereco": {
+        "cep": "98910-000",
+        "rua": "rua tal",
+        "numero": "564",
+        "bairro": "centro",
+        "cidade": "Três de Maio",
+        "estado": "RS"
+      },
+      "id": 2
+    }
+  ],
   "usuario": [
     {
       "id": "wagnerricardonet@gmail.com",
@@ -43,6 +89,18 @@
       "cep": "98910-000",
       "rua": "tese",
       "numero": "123",
+      "bairro": "centro",
+      "cidade": "Três de Maio",
+      "estado": "RS"
+    },
+    {
+      "id": "novo@compra.com.br",
+      "nome": "novo compra",
+      "email": "novo@compra.com.br",
+      "senha": "123",
+      "cep": "98910-000",
+      "rua": "rua tal",
+      "numero": "564",
       "bairro": "centro",
       "cidade": "Três de Maio",
       "estado": "RS"
